@@ -1,5 +1,14 @@
 ## **Setup Information**
 
+### Note: all the files and sub folders are placed under src folder while the **BUILD** files are placed under dist folder
+
+### Note: In this project 
+###         - all components files are placed under folder named components
+###         - all the images are placed under Assets folder 
+###         - UI related components components that are to be rendered at more than one place are placed under UI folder and, 
+###         - all routes are placed under routing.js file
+
+
 #### for viewing the source code 
      change the branch to master branch 
 
