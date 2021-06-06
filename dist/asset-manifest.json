@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/assigned/static/css/main.26f8c829.chunk.css",
-    "main.js": "/assigned/static/js/main.7d276e38.chunk.js",
-    "main.js.map": "/assigned/static/js/main.7d276e38.chunk.js.map",
-    "runtime-main.js": "/assigned/static/js/runtime-main.d64671ab.js",
-    "runtime-main.js.map": "/assigned/static/js/runtime-main.d64671ab.js.map",
-    "static/js/2.7a4731a3.chunk.js": "/assigned/static/js/2.7a4731a3.chunk.js",
-    "static/js/2.7a4731a3.chunk.js.map": "/assigned/static/js/2.7a4731a3.chunk.js.map",
-    "static/js/3.41bbc70b.chunk.js": "/assigned/static/js/3.41bbc70b.chunk.js",
-    "static/js/3.41bbc70b.chunk.js.map": "/assigned/static/js/3.41bbc70b.chunk.js.map",
-    "index.html": "/assigned/index.html",
-    "static/css/main.26f8c829.chunk.css.map": "/assigned/static/css/main.26f8c829.chunk.css.map",
-    "static/js/2.7a4731a3.chunk.js.LICENSE.txt": "/assigned/static/js/2.7a4731a3.chunk.js.LICENSE.txt",
-    "static/media/clapperboard.0cbc09be.png": "/assigned/static/media/clapperboard.0cbc09be.png",
-    "static/media/google-play.1ed06caf.png": "/assigned/static/media/google-play.1ed06caf.png"
+    "main.css": "/finalSubmission/static/css/main.26f8c829.chunk.css",
+    "main.js": "/finalSubmission/static/js/main.8931faff.chunk.js",
+    "main.js.map": "/finalSubmission/static/js/main.8931faff.chunk.js.map",
+    "runtime-main.js": "/finalSubmission/static/js/runtime-main.553cc44a.js",
+    "runtime-main.js.map": "/finalSubmission/static/js/runtime-main.553cc44a.js.map",
+    "static/js/2.7a4731a3.chunk.js": "/finalSubmission/static/js/2.7a4731a3.chunk.js",
+    "static/js/2.7a4731a3.chunk.js.map": "/finalSubmission/static/js/2.7a4731a3.chunk.js.map",
+    "static/js/3.41bbc70b.chunk.js": "/finalSubmission/static/js/3.41bbc70b.chunk.js",
+    "static/js/3.41bbc70b.chunk.js.map": "/finalSubmission/static/js/3.41bbc70b.chunk.js.map",
+    "index.html": "/finalSubmission/index.html",
+    "static/css/main.26f8c829.chunk.css.map": "/finalSubmission/static/css/main.26f8c829.chunk.css.map",
+    "static/js/2.7a4731a3.chunk.js.LICENSE.txt": "/finalSubmission/static/js/2.7a4731a3.chunk.js.LICENSE.txt",
+    "static/media/clapperboard.0cbc09be.png": "/finalSubmission/static/media/clapperboard.0cbc09be.png",
+    "static/media/google-play.1ed06caf.png": "/finalSubmission/static/media/google-play.1ed06caf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d64671ab.js",
+    "static/js/runtime-main.553cc44a.js",
     "static/js/2.7a4731a3.chunk.js",
     "static/css/main.26f8c829.chunk.css",
-    "static/js/main.7d276e38.chunk.js"
+    "static/js/main.8931faff.chunk.js"
   ]
 }
