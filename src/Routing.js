@@ -8,14 +8,15 @@ import Footer from "./UI/Footer/Footer";
 import Navbar from "./UI/Header/Navbar";
 
 const Routing = () => {
+	const parentUrl=window.location.href;
 	return (
 		<Router>
 			<Navbar />
 			<Switch>
 				<Route path="/" exact component={HomePage}></Route>
-				<Route path="/movies" component={MoviesPage}></Route>
-				<Route path="/series" component={SeriesPage}></Route>
-				{/* <Route component={ErrorPage}></Route> */}
+				<Route path={`${parentUrl}/movies`} component={MoviesPage}></Route>
+				<Route path={`${parentUrl}/series`} component={SeriesPage}></Route>
+				<Route component={ErrorPage}></Route>
 			</Switch>
 			<Footer />
 		</Router>
