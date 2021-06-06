@@ -15,7 +15,7 @@ const Routing = () => {
 				<Route path="/" exact component={HomePage}></Route>
 				<Route path="/movies" component={MoviesPage}></Route>
 				<Route path="/series" component={SeriesPage}></Route>
-				<Route component={ErrorPage}></Route>
+				{/* <Route component={ErrorPage}></Route> */}
 			</Switch>
 			<Footer />
 		</Router>
