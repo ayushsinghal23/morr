@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/finalSubmission/static/css/main.26f8c829.chunk.css",
-    "main.js": "/finalSubmission/static/js/main.8931faff.chunk.js",
-    "main.js.map": "/finalSubmission/static/js/main.8931faff.chunk.js.map",
-    "runtime-main.js": "/finalSubmission/static/js/runtime-main.553cc44a.js",
-    "runtime-main.js.map": "/finalSubmission/static/js/runtime-main.553cc44a.js.map",
-    "static/js/2.7a4731a3.chunk.js": "/finalSubmission/static/js/2.7a4731a3.chunk.js",
-    "static/js/2.7a4731a3.chunk.js.map": "/finalSubmission/static/js/2.7a4731a3.chunk.js.map",
-    "static/js/3.41bbc70b.chunk.js": "/finalSubmission/static/js/3.41bbc70b.chunk.js",
-    "static/js/3.41bbc70b.chunk.js.map": "/finalSubmission/static/js/3.41bbc70b.chunk.js.map",
-    "index.html": "/finalSubmission/index.html",
-    "static/css/main.26f8c829.chunk.css.map": "/finalSubmission/static/css/main.26f8c829.chunk.css.map",
-    "static/js/2.7a4731a3.chunk.js.LICENSE.txt": "/finalSubmission/static/js/2.7a4731a3.chunk.js.LICENSE.txt",
-    "static/media/clapperboard.0cbc09be.png": "/finalSubmission/static/media/clapperboard.0cbc09be.png",
-    "static/media/google-play.1ed06caf.png": "/finalSubmission/static/media/google-play.1ed06caf.png"
+    "main.css": "/morr_assignment/static/css/main.26f8c829.chunk.css",
+    "main.js": "/morr_assignment/static/js/main.6467d74f.chunk.js",
+    "main.js.map": "/morr_assignment/static/js/main.6467d74f.chunk.js.map",
+    "runtime-main.js": "/morr_assignment/static/js/runtime-main.fe9ed9c5.js",
+    "runtime-main.js.map": "/morr_assignment/static/js/runtime-main.fe9ed9c5.js.map",
+    "static/js/2.cf57cf7b.chunk.js": "/morr_assignment/static/js/2.cf57cf7b.chunk.js",
+    "static/js/2.cf57cf7b.chunk.js.map": "/morr_assignment/static/js/2.cf57cf7b.chunk.js.map",
+    "static/js/3.41bbc70b.chunk.js": "/morr_assignment/static/js/3.41bbc70b.chunk.js",
+    "static/js/3.41bbc70b.chunk.js.map": "/morr_assignment/static/js/3.41bbc70b.chunk.js.map",
+    "index.html": "/morr_assignment/index.html",
+    "static/css/main.26f8c829.chunk.css.map": "/morr_assignment/static/css/main.26f8c829.chunk.css.map",
+    "static/js/2.cf57cf7b.chunk.js.LICENSE.txt": "/morr_assignment/static/js/2.cf57cf7b.chunk.js.LICENSE.txt",
+    "static/media/clapperboard.0cbc09be.png": "/morr_assignment/static/media/clapperboard.0cbc09be.png",
+    "static/media/google-play.1ed06caf.png": "/morr_assignment/static/media/google-play.1ed06caf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.553cc44a.js",
-    "static/js/2.7a4731a3.chunk.js",
+    "static/js/runtime-main.fe9ed9c5.js",
+    "static/js/2.cf57cf7b.chunk.js",
     "static/css/main.26f8c829.chunk.css",
-    "static/js/main.8931faff.chunk.js"
+    "static/js/main.6467d74f.chunk.js"
   ]
 }
