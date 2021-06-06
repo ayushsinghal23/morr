@@ -8,7 +8,6 @@ import Footer from "./UI/Footer/Footer";
 import Navbar from "./UI/Header/Navbar";
 
 const Routing = () => {
-	const parentUrl=window.location.href;
 	return (
 		<Router>
 			<Navbar />
