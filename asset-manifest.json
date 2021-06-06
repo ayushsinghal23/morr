@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/morr/static/css/main.26f8c829.chunk.css",
+    "main.js": "/morr/static/js/main.1cf546a9.chunk.js",
+    "main.js.map": "/morr/static/js/main.1cf546a9.chunk.js.map",
+    "runtime-main.js": "/morr/static/js/runtime-main.d833108c.js",
+    "runtime-main.js.map": "/morr/static/js/runtime-main.d833108c.js.map",
+    "static/js/2.cf57cf7b.chunk.js": "/morr/static/js/2.cf57cf7b.chunk.js",
+    "static/js/2.cf57cf7b.chunk.js.map": "/morr/static/js/2.cf57cf7b.chunk.js.map",
+    "static/js/3.41bbc70b.chunk.js": "/morr/static/js/3.41bbc70b.chunk.js",
+    "static/js/3.41bbc70b.chunk.js.map": "/morr/static/js/3.41bbc70b.chunk.js.map",
+    "index.html": "/morr/index.html",
+    "static/css/main.26f8c829.chunk.css.map": "/morr/static/css/main.26f8c829.chunk.css.map",
+    "static/js/2.cf57cf7b.chunk.js.LICENSE.txt": "/morr/static/js/2.cf57cf7b.chunk.js.LICENSE.txt",
+    "static/media/clapperboard.0cbc09be.png": "/morr/static/media/clapperboard.0cbc09be.png",
+    "static/media/google-play.1ed06caf.png": "/morr/static/media/google-play.1ed06caf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d833108c.js",
+    "static/js/2.cf57cf7b.chunk.js",
+    "static/css/main.26f8c829.chunk.css",
+    "static/js/main.1cf546a9.chunk.js"
+  ]
+}
