@@ -12,7 +12,7 @@
 #### the deployable build solution is in dist folder in master branch
 
 #### for viewing the deployed code
-###### click on this link of live app: [https://ayushsinghal23.github.io/morr/#/](url)
+###### click on this link of live app: https://ayushsinghal23.github.io/morr/#/
      
 ## How did you decide on the technical and architectural choices used as part of your solution?
      Firstly, I imaginary divided the page into numerous components and evaluated the prototype as the viable solution and then researched on naming standards of javascript functions,variables and css classes and ids etc. After that i looked into technical aspects of how functionalities of a particular component can be achieved and researched on google for its various solutions and used a method which abides with the time line alotted to me. then after creating the basic styling, coming to CSS , I researched on the color schemes used in the demo given and the font style used and then wrote responsive CSS.
