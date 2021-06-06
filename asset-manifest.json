@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/morr/static/css/main.26f8c829.chunk.css",
-    "main.js": "/morr/static/js/main.1cf546a9.chunk.js",
-    "main.js.map": "/morr/static/js/main.1cf546a9.chunk.js.map",
+    "main.js": "/morr/static/js/main.4f1fdfeb.chunk.js",
+    "main.js.map": "/morr/static/js/main.4f1fdfeb.chunk.js.map",
     "runtime-main.js": "/morr/static/js/runtime-main.d833108c.js",
     "runtime-main.js.map": "/morr/static/js/runtime-main.d833108c.js.map",
     "static/js/2.cf57cf7b.chunk.js": "/morr/static/js/2.cf57cf7b.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.d833108c.js",
     "static/js/2.cf57cf7b.chunk.js",
     "static/css/main.26f8c829.chunk.css",
-    "static/js/main.1cf546a9.chunk.js"
+    "static/js/main.4f1fdfeb.chunk.js"
   ]
 }
