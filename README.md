@@ -14,10 +14,10 @@
 
 ## Are there any improvements you could make to your submission?
 
- I wanted to use api for filtering series and movies but as it was the frontend challenge i decided to use filterinf of JSON feed.
+ I wanted to use api for filtering series and movies but it was the frontend challenge so I decided to use filtering of JSON feed.
 
 
 ## What would you do differently if you were allocated more time?
   
-  - I would have also created a page decided to each series or movie.
+  - I would have also created a page decided to each series or movie in which more info about a particular movie or series can be rendered.
   - I could also look for any further possible optimizations in the code.
