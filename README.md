@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+## **Setup Information**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Note: all the files and sub folders are placed under src folder while the **BUILD** files are placed under "dist" folder
 
-## Available Scripts
+### Note: In this project 
+###         - all components files are placed under folder named components
+###         - all the images are placed under Assets folder 
+###         - UI related components components that are to be rendered at more than one place are placed under UI folder and, 
+###         - all routes are placed under routing.js file
 
-In the project directory, you can run:
 
-### `npm start`
+#### for viewing the source code 
+     change the branch to master branch 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### the deployable build solution is in dist folder in master branch
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+#### for viewing the deployed code
+     click on: https://ayushsinghal23.github.io/morr/
 
-### `npm test`
+## How did you decide on the technical and architectural choices used as part of your solution?
+     Firstly, I imaginary divided the page into numerous components and evaluated the prototype as the viable solution and then researched on naming standards of javascript functions,variables and css classes and ids etc. After that i looked into technical aspects of how functionalities of a particular component can be achieved and researched on google for its various solutions and used a method which abides with the time line alotted to me. then after creating the basic styling, coming to CSS , I researched on the color schemes used in the demo given and the font style used and then wrote responsive CSS.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Are there any improvements you could make to your submission?
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ I wanted to use api for filtering series and movies but it was the frontend challenge so I decided to use filtering of JSON feed.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## What would you do differently if you were allocated more time?
+  
+  - I would have also created a page decided to each series or movie in which more info about a particular movie or series can be rendered.
+  - I would also look for any further possible optimizations in the code.
