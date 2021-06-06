@@ -1,0 +1,24 @@
+.series {
+	position: relative;
+}
+.render-series {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding: 0px 100px;
+}
+
+.render-series :nth-child(21) {
+	margin-bottom: 100px;
+}
+
+.loaders {
+	font-size: 3rem;
+	margin-top: 100px;
+}
+
+@media screen and (max-width: 700px) {
+	.render-series {
+		padding: 0px 50px;
+	}
+}

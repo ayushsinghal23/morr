@@ -1,0 +1,13 @@
+.entertainment-cards {
+	height: 280px;
+	width: 180px;
+	margin: 30px 20px;
+}
+
+.poster img {
+	height: 280px;
+	width: 180px;
+}
+.title {
+	text-align: center;
+}

@@ -1,0 +1,144 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;400;500;600&display=swap");
+
+.nav-bar {
+	position: relative;
+	display: flex;
+	justify-content: space-between;
+	box-sizing: border-box;
+	background-image: linear-gradient(to bottom right, #0084ff, #144fff);
+	color: #fff;
+	width: 100%;
+	font-family: "Raleway", sans-serif;
+	font-weight: 400;
+	padding: 0px 40px;
+}
+
+.toggled-data {
+	display: flex;
+	width: 100%;
+}
+.nav-left-side {
+	width: 50%;
+	padding: 10px 70px;
+	font-size: 1.4rem;
+}
+
+.nav-left-side span {
+	font-weight: 500;
+}
+.nav-right-side {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	width: 50%;
+	padding: 10px 20px;
+}
+
+.nav-right-side span {
+	margin-right: 30px;
+}
+
+.nav-right-side button {
+	padding: 5px 10px;
+	background-color: #111111;
+	color: #fff;
+	border: none;
+	letter-spacing: 0.05rem;
+	cursor: pointer;
+}
+
+.toggle-bar {
+	position: fixed;
+	left: 0;
+	display: none;
+}
+
+.toggle-bar div {
+	width: 30px;
+	height: 3px;
+	margin: 3px 10px;
+	background-color: #fff;
+}
+
+@media screen and (max-width: 700px) {
+	.nav-bar {
+		height: 100%;
+		position: absolute;
+		flex-direction: column-reverse;
+		width: 100%;
+		padding: 0;
+		background-image: none;
+	}
+	.toggled-data {
+		flex-direction: column;
+		height: 100%;
+		position: absolute;
+		width: 100%;
+		left: 100%;
+		z-index: 100;
+		top: 61px;
+		display: none;
+		align-items: center;
+		position: absolute;
+		background-image: linear-gradient(to bottom right, #0084ff, #144fff);
+	}
+
+	.active {
+		width: 100%;
+		left: 0%;
+		height: 400px;
+		display: flex;
+		animation: slide 1s ease-in-out;
+		overflow: hidden;
+		position: fixed;
+	}
+
+	.toggled-data .nav-left-side {
+		padding: 0;
+		text-align: center;
+		margin: 100px 0px;
+	}
+
+	.toggled-data .nav-right-side {
+		padding: 0;
+		text-align: center;
+		display: flex;
+		flex-direction: column;
+	}
+
+	.nav-right-side span {
+		margin: 0px 0px 100px;
+	}
+
+	.toggle-bar {
+		width: 100vw;
+		display: flex;
+		position: fixed;
+		padding: 12px;
+		top: 0px;
+		z-index: 10000;
+		background-image: linear-gradient(to bottom right, #0084ff, #144fff);
+	}
+
+	.toggle-bar span {
+		left: 0;
+		cursor: pointer;
+		border: 2px solid whitesmoke;
+		padding: 2px 5px;
+		border-radius: 5px;
+	}
+	.toggle-bar div {
+		margin: 5px 0px;
+	}
+}
+
+@keyframes slide {
+	from {
+		left: -100%;
+		width: 0%;
+	}
+	to {
+		left: 2%;
+		width: 100%;
+	}
+}

@@ -1,0 +1,82 @@
+.footer {
+	box-sizing: border-box;
+	width: 100%;
+	bottom: 0;
+	padding: 20px 90px;
+	background: #111111;
+	color: rgb(218, 213, 213);
+	margin-top: auto;
+	z-index: 30;
+}
+
+.footer-content {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 50px;
+}
+
+.footer-visual-links {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.footer-visual-links .social-icons {
+	width: 150px;
+	display: flex;
+	justify-content: space-between;
+	font-size: 1.3rem;
+}
+
+.footer-visual-links .app-stores {
+	width: 380px;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.app-stores img {
+	height: 30px;
+	width: 100px;
+}
+
+@media screen and (min-width: 751px) and (max-width: 810px) {
+	.footer {
+		padding: 20px 60px;
+	}
+}
+
+@media screen and (min-width: 671px) and (max-width: 750px) {
+	.footer {
+		padding: 20px 30px;
+	}
+}
+
+@media screen and (min-width: 561px) and (max-width: 670px) {
+	.footer {
+		padding: 20px 10px;
+		text-align: center;
+	}
+}
+
+@media screen and (max-width: 560px) {
+	.footer-visual-links {
+		flex-direction: column;
+	}
+	.social-icons {
+		margin-bottom: 30px;
+	}
+	.footer {
+		padding: 20px 10px;
+		text-align: center;
+	}
+}
+
+@media screen and (max-width: 370px) {
+	.app-stores {
+		justify-content: space-around;
+	}
+	.app-stores img {
+		width: 60px;
+		height: auto;
+	}
+}
