@@ -20,4 +20,4 @@
 ## What would you do differently if you were allocated more time?
   
   - I would have also created a page decided to each series or movie in which more info about a particular movie or series can be rendered.
-  - I could also look for any further possible optimizations in the code.
+  - I would also look for any further possible optimizations in the code.
