@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import ErrorPage from "./Components/ErrorPage";
 import HomePage from "./Components/HomePage";
 import MoviesPage from "./Components/MoviesPage";
