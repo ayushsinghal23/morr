@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/morr-assignment/static/css/main.26f8c829.chunk.css",
-    "main.js": "/morr-assignment/static/js/main.a8202069.chunk.js",
-    "main.js.map": "/morr-assignment/static/js/main.a8202069.chunk.js.map",
-    "runtime-main.js": "/morr-assignment/static/js/runtime-main.c9112a7a.js",
-    "runtime-main.js.map": "/morr-assignment/static/js/runtime-main.c9112a7a.js.map",
-    "static/js/2.7a4731a3.chunk.js": "/morr-assignment/static/js/2.7a4731a3.chunk.js",
-    "static/js/2.7a4731a3.chunk.js.map": "/morr-assignment/static/js/2.7a4731a3.chunk.js.map",
-    "static/js/3.41bbc70b.chunk.js": "/morr-assignment/static/js/3.41bbc70b.chunk.js",
-    "static/js/3.41bbc70b.chunk.js.map": "/morr-assignment/static/js/3.41bbc70b.chunk.js.map",
-    "index.html": "/morr-assignment/index.html",
-    "static/css/main.26f8c829.chunk.css.map": "/morr-assignment/static/css/main.26f8c829.chunk.css.map",
-    "static/js/2.7a4731a3.chunk.js.LICENSE.txt": "/morr-assignment/static/js/2.7a4731a3.chunk.js.LICENSE.txt",
-    "static/media/clapperboard.0cbc09be.png": "/morr-assignment/static/media/clapperboard.0cbc09be.png",
-    "static/media/google-play.1ed06caf.png": "/morr-assignment/static/media/google-play.1ed06caf.png"
+    "main.css": "/static/css/main.26f8c829.chunk.css",
+    "main.js": "/static/js/main.a8202069.chunk.js",
+    "main.js.map": "/static/js/main.a8202069.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cfe3121b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cfe3121b.js.map",
+    "static/js/2.7a4731a3.chunk.js": "/static/js/2.7a4731a3.chunk.js",
+    "static/js/2.7a4731a3.chunk.js.map": "/static/js/2.7a4731a3.chunk.js.map",
+    "static/js/3.41bbc70b.chunk.js": "/static/js/3.41bbc70b.chunk.js",
+    "static/js/3.41bbc70b.chunk.js.map": "/static/js/3.41bbc70b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.26f8c829.chunk.css.map": "/static/css/main.26f8c829.chunk.css.map",
+    "static/js/2.7a4731a3.chunk.js.LICENSE.txt": "/static/js/2.7a4731a3.chunk.js.LICENSE.txt",
+    "static/media/clapperboard.0cbc09be.png": "/static/media/clapperboard.0cbc09be.png",
+    "static/media/google-play.1ed06caf.png": "/static/media/google-play.1ed06caf.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9112a7a.js",
+    "static/js/runtime-main.cfe3121b.js",
     "static/js/2.7a4731a3.chunk.js",
     "static/css/main.26f8c829.chunk.css",
     "static/js/main.a8202069.chunk.js"
