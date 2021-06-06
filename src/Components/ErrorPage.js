@@ -9,6 +9,7 @@ const ErrorPage = () => {
 				display: "flex",
 				justifyContent: "center",
 				alignItems: "center",
+				marginTop:"200px"
 			}}
 		>
 			Sorry Page Not Found!!
