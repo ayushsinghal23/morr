@@ -1,9 +1,9 @@
 ## **Setup Information**
 
 #### for viewing the source code 
-     change the branch to main branch 
+     change the branch to master branch 
 
-#### the deployable build solution is in dist folder in main branch
+#### the deployable build solution is in dist folder in master branch
 
 #### for viewing the deployed code
      click on: https://ayushsinghal23.github.io/morr/
