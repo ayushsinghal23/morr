@@ -3,4 +3,4 @@ change the branch to main branch
 
 # for viewing the deployed code
  
-click on: http://ayushsinghal23.github.com/morr/#/
+click on: https://ayushsinghal23.github.io/morr/
